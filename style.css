@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+#memo {
+    display: none;
+    box-shadow;
+    text-shadow: 5000;
+}
+
+#main {
+    color:darkseagreen;
+    background-color: antiquewhite;
+}
